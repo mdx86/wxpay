@@ -1,5 +1,5 @@
 {
-    "name": "wxpay/wxpay",
+    "name": "mindongji/wxpay",
     "type": "library",
     "description": "微信支付 PHP SDK",
     "keywords": [
