@@ -7,7 +7,7 @@
         "pay",
         "sdk"
     ],
-    "license": "BSD",
+    "license": "MIT",
     "minimum-stability" : "dev",
     "autoload": {
         "psr-4": {"WXPay\\": "src/"}
