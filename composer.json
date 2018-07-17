@@ -1,15 +1,14 @@
 {
     "name": "mindongji/wxpay",
+    "description": "wechat payment sdk",
     "type": "library",
-    "description": "微信支付 PHP SDK",
-    "keywords": [
-        "wechat",
-        "pay",
-        "sdk"
-    ],
     "license": "MIT",
-    "minimum-stability" : "stable",
-    "autoload": {
-        "psr-4": {"WXPay\\": "src/"}
-    }
+    "authors": [
+        {
+            "name": "计岷东",
+            "email": "jmd025@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
 }
